@@ -6051,3 +6051,7 @@ zoo:
 zwp:
 - type: A
   value: 172.99.233.117
+
+nexrix.hackclub.com: # gpantha99@gmail.com
+- type: CNAME
+  value: https://github.com/gaurab-pantha/nexrix
